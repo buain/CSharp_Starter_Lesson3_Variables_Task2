@@ -1,0 +1,6 @@
+D:\NET\Projects\Lesson3\Task3\Srednee Arifm\Srednee Arifm\bin\Debug\Srednee Arifm.exe.config
+D:\NET\Projects\Lesson3\Task3\Srednee Arifm\Srednee Arifm\bin\Debug\Srednee Arifm.exe
+D:\NET\Projects\Lesson3\Task3\Srednee Arifm\Srednee Arifm\bin\Debug\Srednee Arifm.pdb
+D:\NET\Projects\Lesson3\Task3\Srednee Arifm\Srednee Arifm\obj\Debug\Srednee Arifm.csproj.CoreCompileInputs.cache
+D:\NET\Projects\Lesson3\Task3\Srednee Arifm\Srednee Arifm\obj\Debug\Srednee Arifm.exe
+D:\NET\Projects\Lesson3\Task3\Srednee Arifm\Srednee Arifm\obj\Debug\Srednee Arifm.pdb
